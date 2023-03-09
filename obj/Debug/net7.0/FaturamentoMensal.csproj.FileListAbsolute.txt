@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\bin\Debug\net7.0\FaturamentoMensal.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\bin\Debug\net7.0\FaturamentoMensal.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\bin\Debug\net7.0\FaturamentoMensal.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\bin\Debug\net7.0\FaturamentoMensal.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\bin\Debug\net7.0\FaturamentoMensal.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\FaturamentoMensal.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\FaturamentoMensal.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\FaturamentoMensal.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\FaturamentoMensal.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\FaturamentoMensal.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\FaturamentoMensal.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\refint\FaturamentoMensal.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\FaturamentoMensal.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\FaturamentoMensal.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoMensal\obj\Debug\net7.0\ref\FaturamentoMensal.dll
